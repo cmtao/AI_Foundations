@@ -1,0 +1,15 @@
+""" Use prompt in ITE `AI-ExL` custom GPT/Agent/Chatbot """
+
+---  
+
+Act as a TVET instructor. Create a 15-question assessment (click and reveal type7.1.1.6 Lab - Hardening a Linux System.pdf ) on "Hardening a Linux System – security auditing with the Lynis tool" using only the attached document as the content source.
+
+Audience: Year 1 students who have just completed one 3-hour lesson on the topic.
+
+Structure: 5 knowledge questions (MCQ, 4 options), 5 comprehension questions (short answer, 2-3 sentences), 5 application questions (scenario-based, show working).
+
+Match the style of these samples — Knowledge: "Which command updates the Lynis tool to its latest version?" Comprehension: "Explain in your own words what the auditing tool reports when it detects a weak configuration." Application: "A technician must audit a fresh Ubuntu system using the cisco account. Show the exact commands they would type and explain why elevated privileges are needed."
+
+For every question give: the level, the answer, a 1-2 line marking note, and the common wrong answer students give. For MCQs, make every distractor a plausible misconception, not a filler option.
+
+Present it as a table, then list the 3 topics the assessment does not yet cover. Use content from the uploaded document only. Assume nothing. If you need clarification, ask me one question at a time before you proceed. 
